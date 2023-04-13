@@ -3,7 +3,7 @@ Curso de Cloud
 
 DÍA 01
 
-1) Índice
+  1. Índice
 
 a) M6_01_Python Notebook
   - Funciones nativas: print()
@@ -21,7 +21,7 @@ b) M6_SpaceX _01
 
 DÍA 02
 
-1)Índice
+  2.Índice
 
 a) M6_02_Condicionales:
   - Programación imperativa. Sentencias condicionales if, else y elif. Operadores AND y OR.
@@ -38,7 +38,7 @@ c) M6_04_Programación Funcional:
 
 DÍA 03
 
-1)Índice
+  3. Índice
 
 a) M6_05_SparkSession Teoría:
   - Iniciación de una sesión y un contexto.
