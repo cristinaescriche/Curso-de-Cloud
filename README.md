@@ -66,7 +66,7 @@ a) M6_08_Funciones:
   - Documentación.
   - Funciones como objeto: llamar a otras funciones dentro de funciones.
   
-c) M6_SpaceX _02:
+b) M6_SpaceX _02:
   - Predicciones.
   
 2) Lenguaje Python 3.7
