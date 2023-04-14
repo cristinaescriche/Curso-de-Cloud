@@ -54,3 +54,20 @@ c) M6_07_Transformaciones y acciones sobre RDDs:
   
 2) Lenguaje Python 3.7
 
+DÍA 04
+
+  3. Índice
+
+a) M6_08_Funciones:
+  - Actividades de repaso de definición de funciones.
+  - Valor booleano None.
+  - Parámetros por defecto.
+  - Argumentos posicionales.
+  - Documentación.
+  - Funciones como objeto: llamar a otras funciones dentro de funciones.
+  
+c) M6_SpaceX _02:
+  - Predicciones.
+  
+2) Lenguaje Python 3.7
+
