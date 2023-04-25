@@ -70,7 +70,16 @@ a) M6_08_Funciones:
   - Funciones como objeto: llamar a otras funciones dentro de funciones.
   
 b) M6_SpaceX _02:
-  - Predicciones.
+  - Estandarización de los datos.
+  - División de los datos en datos de entrenamiento y de test.
+  - Modelo de regresión logística.
+  - Modelo Support Vector Machine.
+  - Modelo Decision Tree.
+  - Modelo K vecinos.
+  - Selección de mejores parámetros.
+  - Cálculo de la precisión de los datos con el método score.
+  - Matriz de confusión.
+  - Comporación de modelos.
   
 2) Lenguaje Python 3.7
 
