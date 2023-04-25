@@ -15,7 +15,10 @@ a) M6_01_Python Notebook
 b) M6_SpaceX _01
   - Utilización de la función GET.
   - Creación de un nuevo dataframe a partir de columnas de otro.
-  - Creación de funciones.
+  - Utilización de funciones para la creación de un diccionario base de un nuevo dataframe.
+  - Aplicación de filtros.
+  - Sustitución de valores NaN por valores válidos.
+  - Exportación del dataframe a un CSV.
   
 2) Lenguaje Python 3.7
 
